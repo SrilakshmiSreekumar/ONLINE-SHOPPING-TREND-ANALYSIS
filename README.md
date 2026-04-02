@@ -8,36 +8,36 @@ This project analyzes customer purchasing behavior using a shopping trends datas
 📊 Dataset Description
 
 The dataset includes:
-    Customer demographics (age, gender, location)
-    Purchase history and transaction details
-    Product categories
-    Payment methods
-    Seasonal trends
+    *Customer demographics (age, gender, location)
+    *Purchase history and transaction details
+    *Product categories
+    *Payment methods
+    *Seasonal trends
 
 Objectives
 
-Identify customer buying patterns and trends
-Analyze spending behavior across different demographics
-Determine popular product categories and demand fluctuations
-Study the impact of seasons and time on purchasing decisions
-Understand preferred payment methods
+* Identify customer buying patterns and trends
+* Analyze spending behavior across different demographics
+* Determine popular product categories and demand fluctuations
+* Study the impact of seasons and time on purchasing decisions
+* Understand preferred payment methods
 
 Key Analysis Performed
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Visualization of purchasing trends using charts and graphs
-Comparative analysis across customer segments
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Visualization of purchasing trends using charts and graphs
+* Comparative analysis across customer segments
 
 Expected Outcomes
 
-Insights into customer preferences and high-demand products
-Identification of peak shopping periods
-Better understanding of customer segmentation
-Data-driven recommendations for business decision-making
+* Insights into customer preferences and high-demand products
+* Identification of peak shopping periods
+* Better understanding of customer segmentation
+* Data-driven recommendations for business decision-making
 
 Tools & Technologies Used
 
-Python (Pandas, NumPy)
-Data Visualization (Matplotlib, Seaborn)
-Jupyter Notebook
+* Python (Pandas, NumPy)
+* Data Visualization (Matplotlib, Seaborn)
+* Jupyter Notebook
