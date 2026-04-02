@@ -41,3 +41,8 @@ Tools & Technologies Used
 * Python (Pandas, NumPy)
 * Data Visualization (Matplotlib, Seaborn)
 * Jupyter Notebook
+
+
+  📌 Conclusion
+
+  This project provides valuable insights into customer purchasing behavior, helping businesses make informed decisions to improve sales and customer satisfaction.
