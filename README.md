@@ -1,9 +1,12 @@
 Project Title: Customer Purchasing Behavior Analysis Using Shopping Trends Dataset
 
 📌 Project Overview
+
 This project analyzes customer purchasing behavior using a shopping trends dataset. The goal is to uncover patterns in consumer preferences, spending habits, and product demand to support data-driven decision-making.
 
+
 📊 Dataset Description
+
 The dataset includes:
     Customer demographics (age, gender, location)
     Purchase history and transaction details
