@@ -43,6 +43,6 @@ Tools & Technologies Used
 * Jupyter Notebook
 
 
-  📌 Conclusion
+📌 Conclusion
 
   This project provides valuable insights into customer purchasing behavior, helping businesses make informed decisions to improve sales and customer satisfaction.
